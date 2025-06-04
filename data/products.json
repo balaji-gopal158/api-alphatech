@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "product_Id": "P001",
+      "descrption": "Ergonomic wireless mouse with 2.4GHz connection",
+      "ratings": 4.5,
+      "stock": 150,
+      "createdAt": "2024-11-10T10:30:00Z",
+      "images": [{ "image": "mouse1.jpg" }],
+      "catagory": "Electronics",
+      "seller": "TechZone"
+    },
+    {
+      "name": "Bluetooth Headphones",
+      "price": 59.99,
+      "product_Id": "P002",
+      "descrption": "Over-ear wireless headphones with noise cancellation",
+      "ratings": 4.7,
+      "stock": 80,
+      "createdAt": "2024-11-15T09:00:00Z",
+      "images": [{ "image": "headphones1.jpg" }],
+      "catagory": "Electronics",
+      "seller": "AudioPlus"
+    },
+    {
+      "name": "Running Shoes",
+      "price": 79.95,
+      "product_Id": "P003",
+      "descrption": "Lightweight running shoes for men",
+      "ratings": 4.2,
+      "stock": 120,
+      "createdAt": "2024-11-20T14:15:00Z",
+      "images": [{ "image": "shoes1.jpg" }],
+      "catagory": "Footwear",
+      "seller": "RunnerWorld"
+    },
+    {
+      "name": "Stainless Steel Water Bottle",
+      "price": 19.99,
+      "product_Id": "P004",
+      "descrption": "750ml insulated bottle keeps drinks cold or hot",
+      "ratings": 4.8,
+      "stock": 200,
+      "createdAt": "2024-11-22T12:00:00Z",
+      "images": [{ "image": "bottle1.jpg" }],
+      "catagory": "Home & Kitchen",
+      "seller": "HydroStore"
+    },
+    {
+      "name": "Smartphone Tripod",
+      "price": 35.0,
+      "product_Id": "P005",
+      "descrption": "Flexible tripod with Bluetooth remote",
+      "ratings": 4.6,
+      "stock": 90,
+      "createdAt": "2024-11-25T08:45:00Z",
+      "images": [{ "image": "tripod1.jpg" }],
+      "catagory": "Photography",
+      "seller": "GadgetCo"
+    },
+    {
+      "name": "LED Desk Lamp",
+      "price": 22.5,
+      "product_Id": "P006",
+      "descrption": "Adjustable LED desk lamp with USB charging",
+      "ratings": 4.3,
+      "stock": 75,
+      "createdAt": "2024-12-01T10:00:00Z",
+      "images": [{ "image": "lamp1.jpg" }],
+      "catagory": "Office Supplies",
+      "seller": "BrightLight"
+    },
+    {
+      "name": "Yoga Mat",
+      "price": 29.95,
+      "product_Id": "P007",
+      "descrption": "Non-slip yoga mat with carrying strap",
+      "ratings": 4.4,
+      "stock": 110,
+      "createdAt": "2024-12-03T16:00:00Z",
+      "images": [{ "image": "yogamat1.jpg" }],
+      "catagory": "Fitness",
+      "seller": "WellnessStore"
+    },
+    {
+      "name": "Laptop Backpack",
+      "price": 45.99,
+      "product_Id": "P008",
+      "descrption": "Water-resistant backpack for 15.6-inch laptops",
+      "ratings": 4.5,
+      "stock": 60,
+      "createdAt": "2024-12-05T13:20:00Z",
+      "images": [{ "image": "backpack1.jpg" }],
+      "catagory": "Bags & Travel",
+      "seller": "UrbanGear"
+    },
+    {
+      "name": "Kitchen Knife Set",
+      "price": 89.99,
+      "product_Id": "P009",
+      "descrption": "10-piece stainless steel knife set with block",
+      "ratings": 4.9,
+      "stock": 40,
+      "createdAt": "2024-12-08T11:45:00Z",
+      "images": [{ "image": "knives1.jpg" }],
+      "catagory": "Home & Kitchen",
+      "seller": "ChefMaster"
+    },
+    {
+      "name": "Digital Alarm Clock",
+      "price": 18.75,
+      "product_Id": "P010",
+      "descrption": "LED digital alarm clock with night light",
+      "ratings": 4.0,
+      "stock": 130,
+      "createdAt": "2024-12-10T07:30:00Z",
+      "images": [{ "image": "clock1.jpg" }],
+      "catagory": "Electronics",
+      "seller": "TimeKeeper"
+    }
+  ]
+  
