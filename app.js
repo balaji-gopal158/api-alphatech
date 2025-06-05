@@ -43,6 +43,14 @@ app.use('/alphatech/api', product);
 app.use('/alphatech/api', order);
 
 
+// Health check routes
+app.get('/ping', (req, res) => {
+  res.status(200).send('pong');
+});
+
+app.get('/', (req, res) => {
+  res.status(200).send('AlphaTech API is live');
+});
 
 
 // Start server
