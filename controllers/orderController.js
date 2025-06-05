@@ -29,3 +29,11 @@
         }
     )
  }
+
+ exports.getAllorder = async (req,res,next)=>{
+   const Allorder = await createOrder.find({});
+   res.status(200).json({
+      message:'Success',
+      Allorder
+   })
+ }
